@@ -1,2 +1,2 @@
 # pure_data_experiments
-A place to store my explorations in pure data
+A place to compile my explorations in pure data
